@@ -2,7 +2,7 @@
   {"id": 1,
     "key" : 1,
     "name":"Humming Bird",
-    "image": "/assets/images/hummingbird-2139279_1280.jpg",
+    "image": "./assets/images/hummingbird-2139279_1280.jpg",
     "clicked": false
 
   },  
