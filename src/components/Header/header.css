@@ -1,0 +1,15 @@
+.header{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    background-image : linear-gradient(to bottom right,#FF0000,#0000FF);
+    padding:20px;
+    text-shadow: -1px -1px 0px rgba(255,255,255,0.3), 1px 1px 0px rgba(0,0,0,0.8);
+    opacity: 0.6;
+    color: black;
+	font: 700 80px 'Bitter';
+
+}
+
+.gameTip{
+    padding: 40px;
+}

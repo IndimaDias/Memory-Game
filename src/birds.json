@@ -1,0 +1,85 @@
+[
+  {"id": 1,
+    "key" : 1,
+    "name":"Humming Bird",
+    "image": "/assets/images/hummingbird-2139279_1280.jpg",
+    "clicked": false
+
+  },  
+  {"id" : 2,
+   "key" : 2,
+   "name" : "Duck",
+   "image" :"/assets/images/Duck.jpg",
+   "clicked": false
+  },
+
+  {"id" : 3,
+    "key" : 3,   
+    "name" : "Eagle",
+    "image" :"/assets/images/bald-eagle-2715461_1920.jpg",
+    "clicked": false
+   },
+
+   {"id" : 4,
+    "key" : 4,    
+    "name" : "YellowBord",
+    "image" :"/assets/images/bird-2823767_1920.jpg",
+    "clicked": false
+   },
+
+   {"id" : 5,
+    "key" : 5,    
+    "name" : "",
+    "image" :"/assets/images/bird-3732867_1920.jpg",
+    "clicked": false
+   },
+
+   {"id" : 6,
+    "key" : 6,        
+    "name" : "Parrot",
+    "image" :"/assets/images/blauaras-406776_1920.jpg",
+    "clicked": false
+   },
+
+   {"id" : 7,
+    "key" : 7,    
+    "name" : "Flamingo",
+    "image" :"/assets/images/flamingo-3309628_1920.jpg",
+    "clicked": false
+   },
+
+   {"id" : 8,
+    "key" : 8,    
+    "name" : "Kingfisher",
+    "image" :"/assets/images/kingfisher-881975_1920.jpg",
+    "clicked": false
+   },
+
+   {"id" : 9,
+    "key" : 9,    
+    "name" : "Peacock",
+    "image" :"/assets/images/peacock-90051_1920.jpg",
+    "clicked": false
+   },
+
+   {"id" : 10,
+    "key" : 10,    
+    "name" : "Red Kite",
+    "image" :"/assets/images/red-kite-50498_1280.jpg",
+    "clicked": false
+   },
+
+   {"id" : 11,
+    "key" : 11,    
+    "name" : "Seagull",
+    "image" :"/assets/images/seagull.jpg",
+    "clicked": false
+   },
+
+   {"id" : 12,
+    "key" : 12,    
+    "name" : "Swan",
+    "image" :"/assets/images/swan-2077219_1920.jpg",
+    "clicked": false
+   }
+]
