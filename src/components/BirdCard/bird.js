@@ -8,7 +8,8 @@ function BirdCard(props){
     <Col size = "md-3">
         <div className="card">
         <div onClick = {() => props.handleClick(props.id)} className="img-container">
-             <img alt={props.name} src={props.image} />        
+             <img alt={props.name} src={props.image} />  
+             <p>{props.imag}</p>      
         </div>
     </div> 
     </Col>    
