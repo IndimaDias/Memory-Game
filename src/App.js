@@ -76,7 +76,7 @@ class App extends React.Component{
       <div className="App">
         <Wrapper>
           <Header></Header>
-          
+          <p> Test</p>
           <Scores
            score= {this.state.score}
            message = {this.state.message}
