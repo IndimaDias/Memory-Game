@@ -9,7 +9,7 @@ function BirdCard(props){
         <div className="card">
         <div onClick = {() => props.handleClick(props.id)} className="img-container">
              <img alt={props.name} src={props.image} />  
-             <p>{props.image}</p>      
+             
         </div>
     </div> 
     </Col>    

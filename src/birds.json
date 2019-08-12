@@ -9,28 +9,28 @@
   {"id" : 2,
    "key" : 2,
    "name" : "Duck",
-   "image" :"/assets/images/Duck.jpg",
+   "image" :"/public/assets/images/Duck.jpg",
    "clicked": false
   },
 
   {"id" : 3,
     "key" : 3,   
     "name" : "Eagle",
-    "image" :"/assets/images/bald-eagle-2715461_1920.jpg",
+    "image" :"public/assets/images/bald-eagle-2715461_1920.jpg",
     "clicked": false
    },
 
    {"id" : 4,
     "key" : 4,    
     "name" : "YellowBord",
-    "image" :"/assets/images/bird-2823767_1920.jpg",
+    "image" :"assets/images/bird-2823767_1920.jpg",
     "clicked": false
    },
 
    {"id" : 5,
     "key" : 5,    
     "name" : "",
-    "image" :"/assets/images/bird-3732867_1920.jpg",
+    "image" :"./assets/images/bird-3732867_1920.jpg",
     "clicked": false
    },
 
